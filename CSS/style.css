@@ -1,0 +1,19 @@
+.main{height:800px; width:1500px; float: left; margin: auto;}
+.header{height: 100px;width: 1500px;float: left;}
+.logo img{height: 100px;width: 200px;float: left; display: inline-block;}
+.nav{height: 100px; width: 1300px; float: left; padding: auto; text-align: center; align-items: center}
+.nav ul li {; float: left;display: inline-block;margin-top: 25px;padding: 0px;margin-left: 20px;}
+.content{height: 600px;width: 1500px;float: left; display: inline-block;}
+.services{height: 100px; width:1500px;float:left; text-align: center;}
+.services h1{color: brown;}
+.product{height: 400px;width: 1500px; float:left;display:inline-block;margin-left: 2px;}
+.product1{height: 350px;width: 300px;float:left;margin-top: 2px;text-align: center;}
+.product2{height: 350px;width: 300px;float:left;margin-top: 2px;text-align: center;}
+.product3{height: 350px;width: 200px;float:left;margin-top: 2px;text-align: center;}
+.product4{height: 350px;width: 300px;float:left;margin-top: 2px;text-align: center;}
+.product img{height: 250px; width: 200px;top margin:10px; padding: 0px; align-items: center; float: left; display: inline;}
+.product h3{text-align: center; display:inline-block; float: left; margin-left: 2px; margin-top: 1px;padding: 1px;border: 2px; font-size:larger;font-style: italic; font-family: 'Times New Roman', Times, serif;}
+.about-us{height 100px;width: 1500px;float: left; text-align: center; margin-left: 2px;margin-top: 1px;}
+.about-us h1{ color: red;}
+.footer{margin-top: 1px; height:100px ; width: 1500px; float: left; text-align: center; margin-left: 2px;}
+.footer h1{color: blue;}
